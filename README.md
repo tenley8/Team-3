@@ -35,7 +35,7 @@ For this project we are going to run an analysis to determine the probability of
 - Decide on a topic for the project: COVID-19
 - Find the Data Source: Kaggle, WHO
 - Analysis: What is the likelihood of dying from Covid-19
-- Create GitHub Repository: [Team-3](https://github.com/tenley8/Team-3)
+- Create GitHub Repository: [github Team-3](https://github.com/tenley8/Team-3)
 - Create One Branch for each member: Dashboard, Database, Model, Presentation and Technology
 - Create README.md
 - Team-3 Roles: 
@@ -46,8 +46,8 @@ For this project we are going to run an analysis to determine the probability of
          
 ## Resources
 - **Software:** VS Code, python, & JupyterLab  
-- **Languages:** HTML, CSS, JSON, JS, d3  
-- **Data Source:** 1: [csv](https://www.kaggle.com/imdevskp/corona-virus-report/data?select=covid_19_clean_complete.csv)
+- **Languages:** HTML, CSS, JSON, JS 
+- **Data Source:** 1: [kaggle COVID-19 csv] (https://www.kaggle.com/imdevskp/corona-virus-report/data?select=covid_19_clean_complete.csv)
                    
                    2:
                    
@@ -57,4 +57,4 @@ For this project we are going to run an analysis to determine the probability of
                    
                    5:
                    
-                   ![header_pic]
+                   
