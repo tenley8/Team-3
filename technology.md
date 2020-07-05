@@ -1,4 +1,4 @@
-![header_pic](/technology.jpeg)
+![header_pic](/image.jpeg)
  
 # Team-3 [Technology]
   
