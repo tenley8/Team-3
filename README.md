@@ -1,11 +1,11 @@
-# Team-3 Covid-19 Analysis Project
+![header_pic](/covid.png)# Team-3 Covid-19 Analysis Project
 #### Team Members:
 * Joyce Ou
 * Mohamed Ibrahim
 * Momar Drame
 * Tenley Wiltshire
 * Taishi Matsuda
-![header_pic](/covid.png)
+
  
 #### Table of Contents  
 
