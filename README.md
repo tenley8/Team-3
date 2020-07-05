@@ -1,4 +1,4 @@
-![header_pic](/covid.png)# Team-3 Covid-19 Analysis Project
+(/covid.png)# Team-3 Covid-19 Analysis Project![header_pic]
 #### Team Members:
 * Joyce Ou
 * Mohamed Ibrahim
