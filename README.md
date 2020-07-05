@@ -1,6 +1,6 @@
 # Team-3 Covid-19 Analysis Project
-![](/WHF.gif)  
- 
+
+ ![header_pic](/WHF.gif)
 #### Team Members:
 * Joyce Ou
 * Mohamed Ibrahim
