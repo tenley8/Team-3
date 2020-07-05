@@ -1,6 +1,6 @@
 ![header_pic](/covid.png)
 
-# Team-3 Covid-19 Analysis 
+# Team-3 COVID-19 Analysis 
 
 #### Team Members:
 * Joyce Ou
