@@ -1,4 +1,10 @@
 # Team-3 Covid-19 Analysis Project
+#### Team Members:
+* Joyce Ou
+* Mohamed Ibrahim
+* Momar Drame
+* Tenley Wiltshire
+* Taishi Matsuda
 ![header_pic](/covid.png)
  
 #### Table of Contents  
@@ -49,9 +55,3 @@ For this project we are going to run an analysis to determine the probability of
                    4:
                    
                    5:
-#### Team Members:
-* Joyce Ou
-* Mohamed Ibrahim
-* Momar Drame
-* Tenley Wiltshire
-* Taishi Matsuda
