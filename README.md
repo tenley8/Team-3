@@ -1,4 +1,5 @@
 ![header_pic](/WHF.gif)
+
 # Team-3 Covid-19 Analysis Project
 
 #### Team Members:
