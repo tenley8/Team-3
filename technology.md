@@ -1,6 +1,6 @@
 ![header_pic](/technology.jpeg)
  
-# Team-3 Technology]
+# Team-3 [Technology]
   
 ## Overview  
 The team member in the X role will focus on the technology side of the project. 
