@@ -1,4 +1,4 @@
-![header_pic](/WHF.gif)
+![header_pic](/WHF.gif=250x)
 
 # Team-3 Covid-19 Analysis Project
 
