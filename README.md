@@ -45,14 +45,9 @@ For this project we are going to run an analysis to determine the probability of
 ## Resources
 - **Software:** VS Code, python, & JupyterLab  
 - **Languages:** HTML, CSS, JSON, JS 
-- **Data Source:** 1: [kaggle COVID-19 csv] (https://www.kaggle.com/imdevskp/corona-virus-report/data?select=covid_19_clean_complete.csv)
+- **Data Source:** 
+1: [kaggle COVID-19 csv] (https://www.kaggle.com/imdevskp/corona-virus-report/data?select=covid_19_clean_complete.csv)
+2: [Data.CDC.Gov] (https://data.cdc.gov/NCHS/Provisional-COVID-19-Death-Counts-by-Sex-Age-and-S/9bhg-hcku)
                    
-                   2: [Data.CDC.Gov] (https://data.cdc.gov/NCHS/Provisional-COVID-19-Death-Counts-by-Sex-Age-and-S/9bhg-hcku)
-                   
-                   3:
-                   
-                   4:
-                   
-                   5:
-                   
+                 
 ## Summary                   
