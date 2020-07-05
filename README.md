@@ -1,4 +1,6 @@
-(/covid.png)# Team-3 Covid-19 Analysis Project![header_pic]
+# Team-3 Covid-19 Analysis Project 
+![header_pic](/covid.png) ![](/WHF.gif)  
+
 #### Team Members:
 * Joyce Ou
 * Mohamed Ibrahim
@@ -20,7 +22,6 @@
 ## Team-3 Project Overview  
 For this project we are going to run an analysis to determine the probability of dying from COVID-19 based on an individual's life style which includes an analysis of a persons' character traits. We created a dashboard to organize the COVID-19 data which is stored as csv data. Criteria for our analysis is based, but not limited to the following:
 
-![](/WHF.gif)  
 
 - Age: Which age group has the highest risk of dying from COVID-19
 - Gender: From data provided, which gender is at risk of contracting COVID-19
