@@ -52,6 +52,6 @@ For this project we are going to run an analysis to determine the probability of
 2: [Data.CDC.Gov] (https://data.cdc.gov/NCHS/Provisional-COVID-19-Death-Counts-by-Sex-Age-and-S/9bhg-hcku)
                    
                  
-## Summary                   
-![](/COVID Map.png)   
+## Summary 
+![](/Map.png)   
 [Us Covid map by state] https://usafacts.org/visualizations/coronavirus-covid-19-spread-map/
