@@ -1,4 +1,4 @@
-![header_pic](/WHF.gif)
+![header_pic](/covid.png)
 
 # Team-3 Covid-19 Analysis Project
 
