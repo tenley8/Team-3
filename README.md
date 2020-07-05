@@ -39,7 +39,7 @@ For this project we are going to run an analysis to determine the probability of
 - Team-3 Roles: 
 - Square: Create a repository and establish individual branches for each team member - Joyce, Tenley & Momar
 - X: Decide which Technologies and Dashboard will be used. Momor and Tenley
-- Triangle: Create a mockup of amachine learning model - Mohamed
+- Triangle: Create a mockup of a machine learning model - Mohamed
 - Circle: Create a mockup of a database - Taishi
          
 ## Resources
