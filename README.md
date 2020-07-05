@@ -1,7 +1,6 @@
 # Team-3 Covid-19 Analysis Project
 
-(/covid.png) ![](/WHF.gif)  
-
+ ![](/WHF.gif)(/covid.png) 
 #### Team Members:
 * Joyce Ou
 * Mohamed Ibrahim
@@ -21,6 +20,7 @@
 
 ## Team-3 Project Overview  
 For this project we are going to run an analysis to determine the probability of dying from COVID-19 based on an individual's life style which includes an analysis of a persons' character traits. We created a dashboard to organize the COVID-19 data which is stored as csv data. Criteria for our analysis is based, but not limited to the following:
+ 
 
 
 - Age: Which age group has the highest risk of dying from COVID-19
@@ -31,7 +31,7 @@ For this project we are going to run an analysis to determine the probability of
 - Lifestyle: Does a person lifestyle choices indicates the probability of catching, and dying of COVID-19?
              - This can also include an individual's weight, behaviour, and proper nutrution.
 
-![header_pic] ## Objectives 
+ ## Objectives 
 - Decide on a topic for the project: COVID-19
 - Find the Data Source: Kaggle, WHO
 - Analysis: What is the likelihood of dying from Covid-19
@@ -56,3 +56,5 @@ For this project we are going to run an analysis to determine the probability of
                    4:
                    
                    5:
+                   
+                   ![header_pic]
