@@ -1,5 +1,5 @@
 # Team-3 Covid-19 Analysis Project 
-![header_pic](/covid.png) ![](/WHF.gif)  
+(/covid.png) ![](/WHF.gif)  
 
 #### Team Members:
 * Joyce Ou
@@ -8,7 +8,6 @@
 * Tenley Wiltshire
 * Taishi Matsuda
 
- 
 #### Table of Contents  
 
 [Team-3 Project Overview](#project-overview)
@@ -31,7 +30,7 @@ For this project we are going to run an analysis to determine the probability of
 - Lifestyle: Does a person lifestyle choices indicates the probability of catching, and dying of COVID-19?
              - This can also include an individual's weight, behaviour, and proper nutrution.
 
-## Objectives 
+![header_pic] ## Objectives 
 - Decide on a topic for the project: COVID-19
 - Find the Data Source: Kaggle, WHO
 - Analysis: What is the likelihood of dying from Covid-19
