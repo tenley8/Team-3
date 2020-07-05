@@ -53,4 +53,5 @@ For this project we are going to run an analysis to determine the probability of
                    
                  
 ## Summary                   
-![](/COVID Map.gif)   [Us Covid map by state] https://usafacts.org/visualizations/coronavirus-covid-19-spread-map/
+![](/COVID Map.gif)   
+[Us Covid map by state] https://usafacts.org/visualizations/coronavirus-covid-19-spread-map/
