@@ -4,7 +4,9 @@
 #### Table of Contents  
 
 [Team-3 Project Overview](#project-overview)
+
 [Objectives](#objectives) 
+
 [Resources](#resources)  
  
 [Summary](#summary)  
@@ -39,9 +41,13 @@ For this project we are going to run an analysis to determine the probability of
 - **Software:** VS Code, python, & JupyterLab  
 - **Languages:** HTML, CSS, JSON, JS, d3  
 - **Data Source:** 1: [csv](https://www.kaggle.com/imdevskp/corona-virus-report/data?select=covid_19_clean_complete.csv)
+                   
                    2:
+                   
                    3:
+                   
                    4:
+                   
                    5:
 #### Team Members:
 * Joyce Ou
