@@ -1,6 +1,5 @@
 # Team-3 Covid-19 Analysis Project
-
- ![header_pic](/WHF.gif)
+![header_pic](/WHF.gif)
  
 #### Team Members:
 * Joyce Ou
