@@ -56,5 +56,6 @@ For this project we are going to run an analysis to determine the probability of
                  
 ## Summary 
 Follow new cases found each day and the total number of cases and deaths in the US. The county-level tracker makes it easy to follow COVID-19 cases on a granular level, as does the ability to break down infections per 100,000 people.
+
 ![](/Map.png)   
 [Us Covid map by state] https://usafacts.org/visualizations/coronavirus-covid-19-spread-map/
