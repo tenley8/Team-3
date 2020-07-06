@@ -46,13 +46,14 @@ For this project we are going to run an analysis to determine the probability of
 - **Software:** VS Code, python, & JupyterLab  
 - **Languages:** HTML, CSS, JSON, JS 
 - **Data Source:** 
-1: [GOVT Canada] (https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html?&utm_campaign=gc-hc-sc-coronavirus2021-ao-2021-0005-9834796012&utm_medium=search&utm_source=google_grant-ads-107802327544&utm_content=text-en-434601690164&utm_term=%2Bcorona%20%2Bvirus
 
-2: [Data.CDC.Gov] (https://data.cdc.gov/NCHS/Provisional-COVID-19-Death-Counts-by-Sex-Age-and-S/9bhg-hcku)
+1: [GOVT of Canada](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html?&utm_campaign=gc-hc-sc-coronavirus2021-ao-2021-0005-9834796012&utm_medium=search&utm_source=google_grant-ads-107802327544&utm_content=text-en-434601690164&utm_term=%2Bcorona%20%2Bvirus
 
-3: [data.ontario.ca] (https://data.ontario.ca/dataset/confirmed-positive-cases-of-covid-19-in-ontario/resource/455fd63b-603d-4608-8216-7d8647f43350)
+2: [Data.CDC.Gov](https://data.cdc.gov/NCHS/Provisional-COVID-19-Death-Counts-by-Sex-Age-and-S/9bhg-hcku)
 
-4: [ourworld in data] (https://ourworldindata.org/coronavirus)
+3: [data.ontario.ca](https://data.ontario.ca/dataset/confirmed-positive-cases-of-covid-19-in-ontario/resource/455fd63b-603d-4608-8216-7d8647f43350)
+
+4: [ourworld in data](https://ourworldindata.org/coronavirus)
                      
 ## Summary 
 Follow new cases found each day and the total number of cases and deaths in the US. The county-level tracker makes it easy to follow COVID-19 cases on a granular level, as does the ability to break down infections per 100,000 people.
