@@ -47,9 +47,13 @@ For this project we are going to run an analysis to determine the probability of
 - **Languages:** HTML, CSS, JSON, JS 
 - **Data Source:** 
 
-1: [kaggle COVID-19 csv] (https://www.kaggle.com/imdevskp/corona-virus-report/data?select=covid_19_clean_complete.csv)
+1: [kaggle] (https://www.kaggle.com/imdevskp/corona-virus-report/data?select=covid_19_clean_complete.csv)
 
 2: [Data.CDC.Gov] (https://data.cdc.gov/NCHS/Provisional-COVID-19-Death-Counts-by-Sex-Age-and-S/9bhg-hcku)
+
+3: [data.ontario.ca] (https://data.ontario.ca/dataset/confirmed-positive-cases-of-covid-19-in-ontario/resource/455fd63b-603d-4608-8216-7d8647f43350)
+
+4: [ourworld in data] (https://ourworldindata.org/coronavirus)
                      
 ## Summary 
 Follow new cases found each day and the total number of cases and deaths in the US. The county-level tracker makes it easy to follow COVID-19 cases on a granular level, as does the ability to break down infections per 100,000 people.
