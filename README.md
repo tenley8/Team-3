@@ -43,7 +43,7 @@ For this project we are going to run an analysis to determine the probability of
 - Circle: Create a mockup of a database - Taishi
          
 ## Resources
-- **Software:** VS Code, python, & JupyterLab  
+- **Software:** VS Code, Tableau, Python, & JupyterLab  
 - **Languages:** HTML, CSS, JSON, JS 
 - **Data Source:** csv
 
