@@ -1,4 +1,4 @@
-![header_pic](images\Header_Pic.jpeg)
+![header_pic](images/covid.png)
 
 # Team-3 COVID-19 Analysis 
 
