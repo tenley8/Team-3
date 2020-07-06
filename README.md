@@ -2,20 +2,18 @@
 
 # Team-3 COVID-19 Analysis 
 
-#### Team Members:
-* Joyce Ou
-* Mohamed Ibrahim
-* Momar Drame
-* Tenley Wiltshire
-* Taishi Matsuda
-
 #### Table of Contents  
 
 [Project Overview](#project-overview)
-[Resources](#resources)  
+
+[Resources](#resources)
+
 [Data Processing](#Data-Processing)
+
 [Machine Learning Model](#Machine-Learning-Models)
-[Summary](#summary)  
+
+[Summary](#summary)
+
 
 ## Project Overview
 Coronavirus disease 2019 (Covid-19) is an ongoing pandemic and as of July 2020, more than 11 million cases and 500k deaths have been reported across the world.
@@ -31,7 +29,21 @@ Criteria for our analysis is based, but not limited to the following:
 - Health: Do people with pre-existing conditions have a greater risk of dying from COVID-19
 - Lifestyle: Does a person lifestyle choices indicates the probability of catching, and dying of COVID-19?
              - This can also include an individual's weight, behaviour, and proper nutrution.
-         
+
+
+## Team
+#### Members
+* Joyce Ou
+* Mohamed Ibrahim
+* Momar Drame
+* Tenley Wiltshire
+* Taishi Matsuda
+
+#### Communication Protocol
+* Team-3 Slack - With any updates or questions
+* Required Meeting - Every Tuesday Night, Thursday Night and Sunday Morning
+* Optional Meeting - Friday Night, Saturday. To be scheduled based on the requirement.
+
 ## Resources
 - **Software:** VS Code, Tableau, & JupyterLab  
 - **Languages:** HTML, CSS, Python, JS 
@@ -51,6 +63,7 @@ Criteria for our analysis is based, but not limited to the following:
 ![](images\WorldMap.gif) 
 
 ## Data Processing
+TO BE UPDATED
 
 ## Machine Learning Models
 TO BE UPDATED
