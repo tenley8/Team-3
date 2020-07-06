@@ -3,16 +3,12 @@
 # Team-3 COVID-19 Analysis 
 
 #### Table of Contents  
-
-[Project Overview](#project-overview)
-
-[Resources](#resources)
-
-[Data Processing](#Data-Processing)
-
-[Machine Learning Model](#Machine-Learning-Models)
-
-[Summary](#summary)
+* [Project Overview](#project-overview)
+* [Team](#Team)
+* [Resources](#resources)
+* [Data Processing](#Data-Processing)
+* [Machine Learning Model](#Machine-Learning-Models)
+* [Summary](#summary)
 
 
 ## Project Overview
