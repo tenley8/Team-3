@@ -45,7 +45,7 @@ For this project we are going to run an analysis to determine the probability of
 ## Resources
 - **Software:** VS Code, python, & JupyterLab  
 - **Languages:** HTML, CSS, JSON, JS 
-- **Data Source:** 
+- **Data Source:** csv
 
 1: [Gov.Canada.ca](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html?&utm_campaign=gc-hc-sc-coronavirus2021-ao-2021-0005-9834796012&utm_medium=search&utm_source=google_grant-ads-107802327544&utm_content=text-en-434601690164&utm_term=%2Bcorona%20%2Bvirus)
 
