@@ -61,5 +61,5 @@ Follow new cases found each day and the total number of cases and deaths in the 
 ![](/Map.png)   
 [Us Covid map by state] https://usafacts.org/visualizations/coronavirus-covid-19-spread-map/
 
-![](/WorldMap.png) 
+![](/WorldMap.gif) 
 
