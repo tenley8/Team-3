@@ -47,7 +47,7 @@ For this project we are going to run an analysis to determine the probability of
 - **Languages:** HTML, CSS, JSON, JS 
 - **Data Source:** 
 
-1: [data.ontario.ca](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html?&utm_campaign=gc-hc-sc-coronavirus2021-ao-2021-0005-9834796012&utm_medium=search&utm_source=google_grant-ads-107802327544&utm_content=text-en-434601690164&utm_term=%2Bcorona%20%2Bvirus
+1: [Gov.Canada.ca](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html?&utm_campaign=gc-hc-sc-coronavirus2021-ao-2021-0005-9834796012&utm_medium=search&utm_source=google_grant-ads-107802327544&utm_content=text-en-434601690164&utm_term=%2Bcorona%20%2Bvirus)
 
 2: [Data.CDC.Gov](https://data.cdc.gov/NCHS/Provisional-COVID-19-Death-Counts-by-Sex-Age-and-S/9bhg-hcku)
 
