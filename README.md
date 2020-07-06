@@ -46,9 +46,6 @@ Criteria for our analysis is based, but not limited to the following:
 - **Data Source:** csv, JSON
 
 
-6: COVID-19 Timeline: Jan-Feb 2020
-![](images\WorldMap.gif) 
-
 ## Data Processing
 TO BE UPDATED
 
