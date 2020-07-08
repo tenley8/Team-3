@@ -10,6 +10,4 @@
 
 5: [Us Covid map by state](https://usafacts.org/visualizations/coronavirus-covid-19-spread-map/)
 
-[tst](https://github.com/tenley8/Team-3/blob/master/Covid-19%20World%20Dashboard.html)
-
 TEST
