@@ -1,3 +1,12 @@
+# Team-3 COVID-19 Analysis - Database
+
+## Database
+PostgreSQL was created using the data taken from the sources listed below.
+For first segment, the csv files that mock the database relationship shown in the diagram below is uploaded.
+
+![DBDiagram](..\images\Database_Diagram.png)
+
+
 ## Data Source
 1. Government of Ontario, Confirmed positive cases of COVID-19 in Ontario, https://data.ontario.ca/dataset/confirmed-positive-cases-of-covid-19-in-ontario, Accessed July 06, 2020.
 2. Our World in Data, Statistics and Research Coronavirus Pandemic (COVID-19), https://ourworldindata.org/coronavirus, Accessed July 06, 2020.
