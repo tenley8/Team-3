@@ -8,13 +8,14 @@
 * [Project Overview](#project-overview)
 * [Team](#Team)
 * [Resources](#resources)
-* [Data Processing](#Data-Processing)
+* [Database](#Database)
 * [Machine Learning Model](#Machine-Learning-Models)
 * [Summary](#summary)
 
 ## Background
 
 Coronavirus disease 2019 (Covid-19) was first spotted in Wuhan, China and it rapidly spread out gobally within 2-3 months. As of July 2020, more than 11 million cases and 500k deaths have been reported across the world and the numbers of cases continues to increase. 
+
 We selected the Covid-19 as the topic for our project, as better understanding of how the virus spread and how we can reduce a risk of fatality is crucial to reduce the pressure on our health care system and better prepare ourselves for the next outbreak of new viruses.
 
 ## Project Overview
@@ -47,10 +48,10 @@ Some of the questions we are hoping to answer are;
 ## Resources
 - **Software:** VS Code, Tableau, & JupyterLab  
 - **Languages:** HTML, CSS, Python, JS 
-- **Data Source:** Resources\CovidWorldWide.csv (World Wide Dataset), Resources\Ontario.csv (Ontario Dataset)
+- **Data Source:** [CovidWorldWide.csv](Resources\CovidWorldWide.csv) (World Wide Dataset), [Ontario.csv](Resources\Ontario.csv) (Ontario Dataset)
 
 
-## Data Source and 
+## Database
 TO BE UPDATED
 
 ## Machine Learning Models
@@ -58,4 +59,3 @@ TO BE UPDATED
 
 ## Summary 
 TO BE UPDATED
-
