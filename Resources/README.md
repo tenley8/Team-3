@@ -4,7 +4,7 @@
 PostgreSQL was created using the data taken from the sources listed below.
 For first segment, the csv files that mock the database relationship shown in the diagram below is uploaded.
 
-![DBDiagram](..\images\Database_Diagram.png)
+![DBDiagram](https://github.com/tenley8/Team-3/blob/master/images/Database_Diagram.png)
 
 
 ## Data Source
