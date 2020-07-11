@@ -3,15 +3,16 @@
 # Team-3 COVID-19 Analysis 
 
 #### Table of Contents  
+
 * [Background](#Background)
 * [Purpose](#Purpose)
 * [Analysis] (#Analysis)
+* [Project Overview](#project-overview)
 * [Team](#Team)
 * [Resources](#resources)
 * [Data Processing](#Data-Processing)
 * [Machine Learning Model](#Machine-Learning-Models)
 * [Summary](#summary)
-
 
 ## Background
 
