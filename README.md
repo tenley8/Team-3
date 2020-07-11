@@ -16,20 +16,16 @@
 ## Background
 
 The topic we choose for group project is Coronavirus disease 2019 (Covid-19). Covid-19 first spotted in China, Wuhan and it spreads out gobally within 2-3 months 
-
 and as for today, July 2020, there are more than 11 million cases and 500k deaths, which have been reported across the world and the numbers of cases would be continues
-
 increased. As for now, a lot of countires have been investing heavying on researching the vaccines; however, the testing stage for the vaccines has not yet be successful.
 
 ## Purpose
 
 The purpose of this project is to allow us to have better understandings of how the virus spread in the world and also, we would use a specific region (Ontario, Canada)
-
 as an example to analyze wheather there are any correlations betwen Convid -19 and genders, desity of the area, age group and how we can reduce a risk of fatality and
-
 maybe able to reduce the pressure on our health care system and better prepare ourselves for the next outbreak of the new viruses.
-
-This project aims to create the machine learning models which is capable of predicting the growth of Covid-19 cases and also the probability of fatality due to Covid-19, depending on the geographic, an individual's life style including the persons' character traits.
+This project aims to create the machine learning models which is capable of predicting the growth of Covid-19 cases and also the probability of fatality 
+due to Covid-19, depending on the geographic, an individual's life style including the persons' character traits.
 
 ## Analysis
 
