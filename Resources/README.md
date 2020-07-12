@@ -16,3 +16,4 @@ For first segment, the csv files that mock the database relationship shown in th
 2. Centers for Disease Control and Prevention, Provisional COVID-19 Death Counts by Sex, Age, and State, https://data.cdc.gov/NCHS/Provisional-COVID-19-Death-Counts-by-Sex-Age-and-S/9bhg-hcku.
 3. Centers for Disease Control and Prevention, Deaths involving coronavirus disease 2019 (COVID-19) by race and Hispanic origin group and age, by state, https://data.cdc.gov/NCHS/Deaths-involving-coronavirus-disease-2019-COVID-19/ks3g-spdg
 4. USA Facts, Coronavirus Locations: COVID-19 Map by County and State, https://usafacts.org/visualizations/coronavirus-covid-19-spread-map
+5. Country-wise weather data for covid19, https://www.kaggle.com/ksudhir/weather-data-countries-covid19
