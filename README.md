@@ -52,7 +52,8 @@ Some of the questions we are hoping to answer are;
 
 
 ## Database
-TO BE UPDATED
+Database relationship diagram and data source are saved under [Resources Folder](Resources).
+For first segment, csv files listed above are used, however, from next segment, PostgreSQL database will be used.
 
 ## Machine Learning Models
 TO BE UPDATED
