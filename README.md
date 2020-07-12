@@ -56,7 +56,7 @@ Database relationship diagram and data source are saved under [Resources Folder]
 For first segment, csv files listed above are used, however, from next segment, PostgreSQL database will be used.
 
 ## Machine Learning Models
-Mockup Machine Learning Model which predics the outcome of the individual who catched Covid-19 is created under [ML-Model_Toronto](ML-Model_Toronto).
+Mockup Machine Learning Model which predics the outcome of the individual who catched Covid-19 is created under [ML-Model-Ontario](ML-Model-Ontario).
 
 ## Summary 
 TO BE UPDATED
