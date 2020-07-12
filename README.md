@@ -1,53 +1,61 @@
-# Covid-19 Analysis Project
+![header_pic](images/covid.png)
+
+# Team-3 COVID-19 Analysis 
+
+#### Table of Contents  
+
+* [Background](#Background)
+* [Project Overview](#project-overview)
+* [Team](#Team)
+* [Resources](#resources)
+* [Database](#Database)
+* [Machine Learning Model](#Machine-Learning-Models)
+* [Summary](#summary)
 
 ## Background
 
-The topic we choose for group project is Coronavirus disease 2019 (Covid-19). Covid-19 first spotted in China, Wuhan and it spreads out gobally within 2-3 months 
+Coronavirus disease 2019 (Covid-19) was first spotted in Wuhan, China and it rapidly spread out gobally within 2-3 months. As of July 2020, more than 11 million cases and 500k deaths have been reported across the world and the numbers of cases continues to increase. 
 
-and as for today, July 2020, there are more than 11 million cases and 500k deaths, which have been reported across the world and the numbers of cases would be continues
+We selected the Covid-19 as the topic for our project, as better understanding of how the virus spread and how we can reduce a risk of fatality is crucial to reduce the pressure on our health care system and better prepare ourselves for the next outbreak of new viruses.
 
-increased. As for now, a lot of countires have been investing heavying on researching the vaccines; however, the testing stage for the vaccines has not yet be successful.
+## Project Overview
+This project aims to create the machine learning models which is capable of predicting the growth of Covid-19 cases and its fatality rate.
 
-## Purpose
+There are two sets of dataset available. One contains the number of cases and deaths by country (World Wide Dataset) and another that shows outcomes of individual cases in Ontario, Canada (Ontario Dataset).
+We applied Regression model to World Wide Dataset to analyze correlations between Covid-19 spread and death by demographics. 
+For Ontario Dataset, Neural network model was used to create a binary classifier that is capable of predicting the risk of the fatality depending on gender, age and region.
 
-The purpose of this project is to allow us to have better understandings of how the virus spread in the world and also, we would use a specific region (Ontario, Canada)
+Some of the questions we are hoping to answer are;
+- Age: Which age group has the highest risk of dying from Covid-19
+- Gender: Which gender is at risk of contracting Covid-19
+- Income: Do lower income communities (low GDP per Capita) have higher risk of contracting COVID-19?
+- Health: Do people with pre-existing conditions have a greater risk of dying from COVID-19
+- Lifestyle: What aspects of individual lifestyle such as weight, behaviour and proper nutrution impacts probability of catching Covid-19 or dying from Covid-19?
 
-as an example to analyze wheather there are any correlations betwen Convid -19 and genders, desity of the area, age group and how we can reduce a risk of fatality and
+## Team
+#### Members
+* Joyce Ou
+* Mohamed Ibrahim
+* Momar Drame
+* Tenley Wiltshire
+* Taishi Matsuda
 
-maybe able to reduce the pressure on our health care system and better prepare ourselves for the next outbreak of the new viruses.
+#### Communication Protocol
+* Team-3 Slack - With any updates or questions
+* Required Meeting - Every Tuesday Night, Thursday Night and Sunday Morning
+* Optional Meeting - Friday Night, Saturday. To be scheduled based on the requirement.
 
-This project aims to create the machine learning models which is capable of predicting the growth of Covid-19 cases and also the probability of fatality due to Covid-19, depending on the geographic, an individual's life style including the persons' character traits.
+## Resources
+- **Software:** VS Code, Tableau, & JupyterLab  
+- **Languages:** HTML, CSS, Python, JS 
+- **Data Source:** [CovidWorldWide.csv](Resources\CovidWorldWide.csv) (World Wide Dataset), [Ontario.csv](Resources\Ontario.csv) (Ontario Dataset)
 
-## Criteria for our analysis is based, but not limited to the following:
 
-Age: Which age group has the highest risk of dying from COVID-19
+## Database
+TO BE UPDATED
 
-Gender: From data provided, which gender is at risk of contracting COVID-19
+## Machine Learning Models
+TO BE UPDATED
 
-Country: From the data provided, which country has the highest rate of COVID-19 infections
-
-Income: Do lower income communities have higher risk of contracting COVID-19?
-
-Health: Do people with pre-existing conditions have a greater risk of dying from COVID-19
-
-Lifestyle: Does a person lifestyle choices indicates the probability of catching, and dying of COVID-19? - This can also include an individual's weight, behaviour, and proper nutrution.
-
-## Team Members:
-
-Joyce Ou
-
-Mohamed Ibrahim
-
-Momar Drame
-
-Tenley Wiltshire
-
-Taishi Matsuda
-
-## Communication Protocol
-
-Team-3 Slack - With any updates or questions
-
-Required Meeting - Every Tuesday Night, Thursday Night and Sunday Morning
-
-Optional Meeting - Friday Night, Saturday. To be scheduled based on the requirement.
+## Summary 
+TO BE UPDATED
