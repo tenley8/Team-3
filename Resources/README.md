@@ -10,6 +10,10 @@ For first segment, the csv files that mock the database relationship shown in th
 ## Data Source
 1. Government of Ontario, Confirmed positive cases of COVID-19 in Ontario, https://data.ontario.ca/dataset/confirmed-positive-cases-of-covid-19-in-ontario, Accessed July 06, 2020.
 2. Our World in Data, Statistics and Research Coronavirus Pandemic (COVID-19), https://ourworldindata.org/coronavirus, Accessed July 06, 2020.
+3. Country-wise weather data for covid19, https://www.kaggle.com/ksudhir/weather-data-countries-covid19
+4. COVID-19 Cases in Toronto, https://open.toronto.ca/dataset/covid-19-cases-in-toronto/
+5. Neighbourhood Profiles, https://open.toronto.ca/dataset/neighbourhood-profiles/
+6. Weather Data Download for Toronto, https://toronto.weatherstats.ca/download.html
 
 ## References
 1. Government of Canada, Coronavirus disease (COVID-19): Outbreak update, https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html.
