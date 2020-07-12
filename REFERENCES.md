@@ -10,4 +10,6 @@
 
 5: [Us Covid map by state](https://usafacts.org/visualizations/coronavirus-covid-19-spread-map/)
 
+6: [Country-wise weather data for covid19](https://www.kaggle.com/ksudhir/weather-data-countries-covid19)
+
 TEST
