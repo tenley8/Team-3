@@ -53,10 +53,13 @@ Some of the questions we are hoping to answer are;
 
 ## Database
 Database relationship diagram and data source are saved under [Resources Folder](Resources).
-For first segment, csv files listed above are used, however, from next segment, PostgreSQL database will be used.
+For first segment, csv files listed above are used, however, from the segment 2, PostgreSQL database will be used.
 
 ## Machine Learning Models
 Mockup Machine Learning Model which predics the outcome of the individual who catched Covid-19 is created under [ML-Model-Ontario](ML-Model-Ontario).
+The model already has 92% accuracy with minimum epochs and tunings. We will further work on fine-tuning the model in the next segment.
+
+We are also planning to create another Regression Model that can predict the trend of how quickly the virus spread depending on the countries' GDP, Population, Age Distribution and etc.
 
 ## Summary 
 TO BE UPDATED
