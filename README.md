@@ -6,7 +6,7 @@
 
 * [Background](#Background)
 * [Purpose](#Purpose)
-* [Analysis] (#Analysis)
+* [Analysis](#Analysis)
 * [Project Overview](#project-overview)
 * [Team](#Team)
 * [Resources](#resources)
