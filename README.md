@@ -10,6 +10,8 @@
 * [Resources](#resources)
 * [Database](#Database)
 * [Machine Learning Model](#Machine-Learning-Models)
+* [Presentation](#presentation)
+* [Dashboard](#Dashboard)
 * [Summary](#summary)
 
 ## Background
@@ -46,10 +48,9 @@ Some of the questions we are hoping to answer are;
 * Optional Meeting - Friday Night, Saturday. To be scheduled based on the requirement.
 
 ## Resources
-- **Software:** VS Code, Tableau Public, JupyterLab, PostgreSQL, Amazon Web Services (AWS) & Google Slides
+- **Software:** VS Code, Tableau Public, Microsoft Excel, JupyterLab, PostgreSQL, Amazon Web Services (AWS) & Google Slides
 - **Languages:** HTML, CSS, Python, JS, & SQL
 - **Data Source:** [CovidWorldWide.csv](Resources\CovidWorldWide.csv) (World Wide Dataset), [Ontario.csv](Resources\Ontario.csv) (Ontario Dataset)
-
 
 ## Database
 Database relationship diagram and data source are saved under [Resources Folder](Resources).
@@ -60,6 +61,15 @@ Mockup Machine Learning Model which predics the outcome of the individual who ca
 The model already has 92% accuracy with minimum epochs and tunings. We will further work on fine-tuning the model in the next segment.
 
 We are also planning to create another Regression Model that can predict the trend of how quickly the virus spread depending on the countries' GDP, Population, Age Distribution and etc.
+
+## Presentation
+Please refers this link for the presentation:
+https://docs.google.com/presentation/d/1YYGahoh_9MaWsczrZiGQP4bnX_7asvut2Ps5z8Q_0l4/edit?usp=sharing
+
+
+## Dashboard
+Please refers below links for Dashboard struture:
+https://docs.google.com/presentation/d/1x-oMJ23XGBqUsFxZntLLpk3-wjCV48IW_VTWXR0NUps/edit?usp=sharing
 
 ## Summary 
 TO BE UPDATED
