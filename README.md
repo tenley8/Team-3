@@ -50,7 +50,7 @@ Some of the questions we are hoping to answer are;
 * Optional Meeting - Friday Night, Saturday. To be scheduled based on the requirement.
 
 ## Resources
-- **Software:** VS Code, Tableau, & JupyterLab, PostgreSQL, & Google Slides
+- **Software:** VS Code, Tableau Public, Microsoft Excel, JupyterLab, PostgreSQL, Amazon Web Services (AWS) & Google Slides
 - **Languages:** HTML, CSS, Python, JS, & SQL
 - **Data Source:** [CovidWorldWide.csv](Resources\CovidWorldWide.csv) (World Wide Dataset), [Ontario.csv](Resources\Ontario.csv) (Ontario Dataset)
 
