@@ -12,10 +12,6 @@
 * [Machine Learning Model](#Machine-Learning-Models)
 * [Summary](#summary)
 
-
-
-## Test
-
 ## Background
 
 Coronavirus disease 2019 (Covid-19) was first spotted in Wuhan, China and it rapidly spread out gobally within 2-3 months. As of July 2020, more than 11 million cases and 500k deaths have been reported across the world and the numbers of cases continues to increase. 
@@ -36,6 +32,8 @@ Some of the questions we are hoping to answer are;
 - Health: Do people with pre-existing conditions have a greater risk of dying from COVID-19
 - Lifestyle: What aspects of individual lifestyle such as weight, behaviour and proper nutrution impacts probability of catching Covid-19 or dying from Covid-19?
 
+Overview of the presentation is also available []().
+
 ## Team
 #### Members
 * Joyce Ou
@@ -54,7 +52,6 @@ Some of the questions we are hoping to answer are;
 - **Languages:** HTML, CSS, Python, JS 
 - **Data Source:** [CovidWorldWide.csv](Resources\CovidWorldWide.csv) (World Wide Dataset), [Ontario.csv](Resources\Ontario.csv) (Ontario Dataset)
 
-
 ## Database
 Database relationship diagram and data source are saved under [Resources Folder](Resources).
 For first segment, csv files listed above are used, however, from the segment 2, PostgreSQL database will be used.
@@ -64,8 +61,6 @@ Mockup Machine Learning Model which predics the outcome of the individual who ca
 The model already has 92% accuracy with minimum epochs and tunings. We will further work on fine-tuning the model in the next segment.
 
 We are also planning to create another Regression Model that can predict the trend of how quickly the virus spread depending on the countries' GDP, Population, Age Distribution and etc.
-
-[test](#Test)
 
 ## Summary 
 TO BE UPDATED
