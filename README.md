@@ -16,7 +16,7 @@
 
 ## Background
 
-Coronavirus disease 2019 (Covid-19) was first spotted in Wuhan, China and it rapidly spread out gobally within 2-3 months. As of July 2020, more than 11 million cases and 500k deaths have been reported across the world and the numbers of cases continues to increase. 
+Coronavirus disease 2019 (Covid-19) was first spotted in Wuhan, China and it rapidly spread out globally within 2-3 months. As of July 2020, more than 11 million cases and 500k deaths have been reported across the world and the numbers of cases continues to increase. 
 
 We selected the Covid-19 as the topic for our project, as better understanding of how the virus spread and how we can reduce a risk of fatality is crucial to reduce the pressure on our health care system and better prepare ourselves for the next outbreak of new viruses.
 
