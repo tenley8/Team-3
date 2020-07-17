@@ -8,7 +8,7 @@
 * [Project Overview](#project-overview)
 * [Team](#Team)
 * [Resources](#resources)
-* [Database](#Database)
+* [Data Source and Database](#Data-Source-and-Database)
 * [Machine Learning Model](#Machine-Learning-Models)
 * [Presentation](#presentation)
 * [Dashboard](#Dashboard)
@@ -48,13 +48,11 @@ Some of the questions we are hoping to answer are;
 * Optional Meeting - Friday Night, Saturday. To be scheduled based on the requirement.
 
 ## Resources
-- **Software:** VS Code, Tableau Public, Microsoft Excel, JupyterLab, PostgreSQL, Amazon Web Services (AWS) & Google Slides
-- **Languages:** HTML, CSS, Python, JS, & SQL
-- **Data Source:** [CovidWorldWide.csv](Resources\CovidWorldWide.csv) (World Wide Dataset), [Ontario.csv](Resources\Ontario.csv) (Ontario Dataset)
+- **Software:** VS Code, Tableau Public, JupyterLab, pgAdmin 4, Amazon Web Services & Google Slides
+- **Languages:** HTML, CSS, Python, JS, & PostgreSQL
 
-## Database
-Database relationship diagram and data source are saved under [Resources Folder](Resources).
-For first segment, csv files listed above are used, however, from the segment 2, PostgreSQL database will be used.
+## Data Source and Database
+Details of data sources used, clean-up / data exploration process and the database relationship diagrams are describled under [Resources Folder](Resources).
 
 ## Machine Learning Models
 Mockup Machine Learning Model which predics the outcome of the individual who catched Covid-19 is created under [ML-Model-Ontario](ML-Model-Ontario).
