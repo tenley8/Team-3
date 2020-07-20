@@ -44,7 +44,6 @@ The details of pre-processing processes and ML models are explained in README.md
 
 **World-Wide Dataset**
 1. Our World in Data, Statistics and Research Coronavirus Pandemic (COVID-19), https://ourworldindata.org/coronavirus, Accessed July 19, 2020.
-1. Country-wise weather data for covid19, https://www.kaggle.com/ksudhir/weather-data-countries-covid19, Accessed July 19, 2020.
 
 ## References
 1. Government of Canada, Coronavirus disease (COVID-19): Outbreak update, https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html.
