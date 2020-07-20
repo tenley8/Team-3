@@ -66,12 +66,11 @@ https://docs.google.com/presentation/d/1YYGahoh_9MaWsczrZiGQP4bnX_7asvut2Ps5z8Q_
 
 
 ## Dashboard
-**Storyboard:** The purpose of this storyboard is to present a visual representation of worldwide COVID-19 data
-**Tool(s) that will be used to create the final dashboard:** Tableau Public & edited in Visual Studio
-**Interactive element(s):** The interactive elements would be Tableau Public sheets, drop down menus, mouseover functions
-
 Please refers below links for Dashboard struture:
 https://docs.google.com/presentation/d/1x-oMJ23XGBqUsFxZntLLpk3-wjCV48IW_VTWXR0NUps/edit?usp=sharing
+- **Storyboard:** The purpose of this storyboard is to present a visual representation of worldwide COVID-19 data
+- **Tool(s) that will be used to create the final dashboard:** Tableau Public & edited in Visual Studio
+- **Interactive element(s):** The interactive elements would be Tableau Public sheets, drop down menus, mouseover functions
 
 ## Summary 
 TO BE UPDATED
