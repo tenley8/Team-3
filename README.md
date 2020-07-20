@@ -8,13 +8,15 @@
 * [Project Overview](#project-overview)
 * [Team](#Team)
 * [Resources](#resources)
-* [Database](#Database)
+* [Data Source and Database](#Data-Source-and-Database)
 * [Machine Learning Model](#Machine-Learning-Models)
+* [Presentation](#presentation)
+* [Dashboard](#Dashboard)
 * [Summary](#summary)
 
 ## Background
 
-Coronavirus disease 2019 (Covid-19) was first spotted in Wuhan, China and it rapidly spread out gobally within 2-3 months. As of July 2020, more than 11 million cases and 500k deaths have been reported across the world and the numbers of cases continues to increase. 
+Coronavirus disease 2019 (Covid-19) was first spotted in Wuhan, China and it rapidly spread out globally within 2-3 months. As of July 2020, more than 11 million cases and 500k deaths have been reported across the world and the numbers of cases continues to increase. 
 
 We selected the Covid-19 as the topic for our project, as better understanding of how the virus spread and how we can reduce a risk of fatality is crucial to reduce the pressure on our health care system and better prepare ourselves for the next outbreak of new viruses.
 
@@ -46,20 +48,26 @@ Some of the questions we are hoping to answer are;
 * Optional Meeting - Friday Night, Saturday. To be scheduled based on the requirement.
 
 ## Resources
-- **Software:** VS Code, Tableau, & JupyterLab  
-- **Languages:** HTML, CSS, Python, JS 
-- **Data Source:** [CovidWorldWide.csv](Resources\CovidWorldWide.csv) (World Wide Dataset), [Ontario.csv](Resources\Ontario.csv) (Ontario Dataset)
+- **Software:** VS Code, Tableau Public, JupyterLab, pgAdmin 4, Amazon Web Services & Google Slides
+- **Languages:** HTML, CSS, Python, JS, & PostgreSQL
 
-
-## Database
-Database relationship diagram and data source are saved under [Resources Folder](Resources).
-For first segment, csv files listed above are used, however, from the segment 2, PostgreSQL database will be used.
+## Data Source and Database
+Details of data sources used, clean-up / data exploration process and the database relationship diagrams are describled under [Resources Folder](Resources).
 
 ## Machine Learning Models
 Mockup Machine Learning Model which predics the outcome of the individual who catched Covid-19 is created under [ML-Model-Ontario](ML-Model-Ontario).
 The model already has 92% accuracy with minimum epochs and tunings. We will further work on fine-tuning the model in the next segment.
 
 We are also planning to create another Regression Model that can predict the trend of how quickly the virus spread depending on the countries' GDP, Population, Age Distribution and etc.
+
+## Presentation
+Please refers this link for the presentation:
+https://docs.google.com/presentation/d/1YYGahoh_9MaWsczrZiGQP4bnX_7asvut2Ps5z8Q_0l4/edit?usp=sharing
+
+
+## Dashboard
+Please refers below links for Dashboard struture:
+https://docs.google.com/presentation/d/1x-oMJ23XGBqUsFxZntLLpk3-wjCV48IW_VTWXR0NUps/edit?usp=sharing
 
 ## Summary 
 TO BE UPDATED
