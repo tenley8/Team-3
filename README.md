@@ -35,6 +35,7 @@ Some of the questions we are hoping to answer are;
 - Lifestyle: What aspects of individual lifestyle such as weight, behaviour and proper nutrution impacts probability of catching Covid-19 or dying from Covid-19?
 
 ## Team
+<Team (Team Members & Comm. Protocol) to be deleted at Segment 3>
 #### Members
 * Joyce Ou
 * Mohamed Ibrahim
@@ -47,6 +48,8 @@ Some of the questions we are hoping to answer are;
 * Required Meeting - Every Tuesday Night, Thursday Night and Sunday Morning
 * Optional Meeting - Friday Night, Saturday. To be scheduled based on the requirement.
 
+
+
 ## Resources
 - **Software:** VS Code, Tableau Public, JupyterLab, pgAdmin 4, Amazon Web Services & Google Slides
 - **Languages:** HTML, CSS, Python, JS, & PostgreSQL
@@ -55,20 +58,16 @@ Some of the questions we are hoping to answer are;
 Details of data sources used, clean-up / data exploration process and the database relationship diagrams are describled under [Resources Folder](Resources).
 
 ## Machine Learning Models
-Mockup Machine Learning Model which predics the outcome of the individual who catched Covid-19 is created under [ML-Model-Ontario](ML-Model-Ontario).
-The model already has 92% accuracy with minimum epochs and tunings. We will further work on fine-tuning the model in the next segment.
-
-We are also planning to create another Regression Model that can predict the trend of how quickly the virus spread depending on the countries' GDP, Population, Age Distribution and etc.
+Details of our machine learning (ML) models are explained under following folders.
+* [Toronto Data Analysis](ML-Model_Toronto)
+* [World-Wide Data Analysis](ML-Model-WorldWide)
 
 ## Presentation
-Please refers this link for the presentation:
-https://docs.google.com/presentation/d/1YYGahoh_9MaWsczrZiGQP4bnX_7asvut2Ps5z8Q_0l4/edit?usp=sharing
+Please visit our [google slide presenation](https://docs.google.com/presentation/d/1YYGahoh_9MaWsczrZiGQP4bnX_7asvut2Ps5z8Q_0l4/edit?usp=sharing)
 
 
 ## Dashboard
-Please refers below links for Dashboard struture:
-https://docs.google.com/presentation/d/1x-oMJ23XGBqUsFxZntLLpk3-wjCV48IW_VTWXR0NUps/edit?usp=sharing
-- **Storyboard:** The purpose of this storyboard is to present a visual representation of worldwide COVID-19 data
+Please visit our [storyboard](https://docs.google.com/presentation/d/1x-oMJ23XGBqUsFxZntLLpk3-wjCV48IW_VTWXR0NUps/edit?usp=sharing), which presents a visual representation of worldwide COVID-19 data.
 - **Tool(s) that will be used to create the final dashboard:** Tableau Public & edited in Visual Studio
 - **Interactive element(s):** The interactive elements would be Tableau Public sheets, drop down menus, mouseover functions
 
