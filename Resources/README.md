@@ -32,7 +32,7 @@ Python SQLAlchemy was used to store datasets to PostgreSQL DB through Amazon Web
 The relationship between each tables are described in the database relationship diagram below. PostgreSQL query and SQLAlchemy were used to feed data into ML models.
 The details of pre-processing processes and ML models are explained in README.md stored under ML-Models folder.
 
-![DBDiagram](https://github.com/tenley8/Team-3/blob/master/images/Database_Diagram.png)
+![DBDiagram](../images/Database_Diagram.png)
 
 
 ## Data Source
