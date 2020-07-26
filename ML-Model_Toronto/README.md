@@ -4,14 +4,14 @@
 Using TensorFlow and Scikit-learn, we created Binary Classification Models that can predict the chance of being hospitalized and fatality based on the age, gender and the area of living of the individuals in City of Toronto, Canada. 
 
 Queries / Codes used during the analysis can be found;
-* Initial Analysis: [SQL Queries](ML-Model_Toronto/SQL_Query)
-* ML Models: [IPython Notebook](ML-Model_Toronto/Toronto_Cases_Binary_Classifier.ipynb)
+* Initial Analysis: [SQL Queries](SQL_Query) and [IPython Notebook](Toronto_Initial_Analysis.ipynb)
+* ML Models: [IPython Notebook](Toronto_Cases_Binary_Classifier.ipynb)
 
 ## Initial Analysis
-Tables below shows;
+Tables and graphs below shows;
 * the number of active, resolved and fatal cases and their percentage by age group
 * the number of active, resolved and fatal cases and their percentage by gender
-* top 10 and bottom 10 areas of Toronto by the fatality rate
+* the fatality rate of COVID-19 by Toronto neighbourhoods 
 
 We can observe that;
 * Higher the age, higher risk of fatality
@@ -27,9 +27,9 @@ Table 2:
 
 ![Table2](../images/Toronto_Cases_Initial_Analysis/Fatality_By_Gender.png)
 
-Table 3:
+Graph 1:
 
-![Table3](../images/Toronto_Cases_Initial_Analysis/Top_Bottom_Area.png)
+![Graph1](../images/Toronto_Cases_Initial_Analysis/Fatality_Rate_By_Area.png)
 
 ## Model
 #### Pre-processing
