@@ -32,7 +32,6 @@ Table 3:
 ![Table3](../images/Toronto_Cases_Initial_Analysis/Top_Bottom_Area.png)
 
 ## Model
-
 #### Pre-processing
 Following steps are taking during pre-processing of data.
 * Remove ACTIVE cases as results are unknown
