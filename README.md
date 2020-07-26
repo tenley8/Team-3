@@ -73,12 +73,9 @@ Please visit our [storyboard](https://docs.google.com/presentation/d/1x-oMJ23XGB
 - **Interactive element(s):** The interactive elements would be Tableau Public sheets, drop down menus, mouseover functions
 
 #### Interactive Dashboards
-- **Worldwide COVID-19 Dashboard
-- **ML-Model Toronto Dashboard
-Please visit our [visual dashboard](https://public.tableau.com/profile/tenley5222#!/vizhome/COVID-19_15942366549880/COVID-19?publish=yes), which presents a visual dashboard representation of worldwide COVID-19 data.
-
-#### Worldwide COVID-19 InteractiveML-Model Toronto Dashboard
-Please visit our [visual dashboard](https://public.tableau.com/profile/tenley5222#!/vizhome/COVID-19_15942366549880/WorlwideCOVID-19?publish=yes), which presents a visual dashboard representation of ML-Model Toronto.
+- **Worldwide COVID-19 Dashboard**
+- **ML-Model Toronto Dashboard**
+Please visit our [visual dashboard](https://public.tableau.com/profile/tenley5222#!/vizhome/COVID-19_15942366549880/WorlwideCOVID-19?publish=yes), which presents a visual dashboard representation of Worlwide COVID-19 & ML-Model Toronto Dashboards
 
 ## Summary 
 TO BE UPDATED
