@@ -12,7 +12,7 @@
 * [Machine Learning Model](#Machine-Learning-Models)
 * [Presentation](#presentation)
 * [Dashboard](#Dashboard)
-* [Summary](#summary)
+* [Findings and Recommendation](#Findings-and-Recommendation)
 
 ## Background
 
@@ -48,8 +48,6 @@ Some of the questions we are hoping to answer are;
 * Required Meeting - Every Tuesday Night, Thursday Night and Sunday Morning
 * Optional Meeting - Friday Night, Saturday. To be scheduled based on the requirement.
 
-
-
 ## Resources
 - **Software:** VS Code, Tableau Public, JupyterLab, pgAdmin 4, Amazon Web Services & Google Slides
 - **Languages:** HTML, CSS, Python, JS, & PostgreSQL
@@ -58,13 +56,10 @@ Some of the questions we are hoping to answer are;
 Details of data sources used, clean-up / data exploration process and the database relationship diagrams are describled under [Resources Folder](Resources).
 
 ## Machine Learning Models
-Details of our machine learning (ML) models are explained under following folders.
-* [Toronto Data Analysis](ML-Model_Toronto)
-* [World-Wide Data Analysis](ML-Model-WorldWide)
+Details of our machine learning (ML) models are explained under [Toronto Data Analysis](ML-Model_Toronto).
 
 ## Presentation
 Please visit our [google slide presenation](https://docs.google.com/presentation/d/1YYGahoh_9MaWsczrZiGQP4bnX_7asvut2Ps5z8Q_0l4/edit?usp=sharing)
-
 
 ## Dashboard
 #### Storyboard
@@ -77,5 +72,8 @@ Please visit our [storyboard](https://docs.google.com/presentation/d/1x-oMJ23XGB
 - **ML-Model Toronto Dashboard**
 - Please visit our [visual dashboard](https://public.tableau.com/profile/tenley5222#!/vizhome/COVID-19_15942366549880/WorlwideCOVID-19?publish=yes), which presents a visual dashboard representation of Worlwide COVID-19 & ML-Model Toronto Dashboards on the [Menu Bar]
 
-## Summary 
-TO BE UPDATED
+## Findings and Recommendation
+Analysis performed for COVID-19 cases in Toronto indicates that the outcome of the COVID-19 could significantly depend on not only the age but demographic and ecnonomic factors.
+However lack of availability of in-depth data prevents us from deriving further conclusion.
+
+For further analysis, although only aggregated data is available, [World-Wide Data](ML-Model-WorldWide) may help us understand more about COVID-19.
