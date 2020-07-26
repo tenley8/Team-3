@@ -75,7 +75,7 @@ Please visit our [storyboard](https://docs.google.com/presentation/d/1x-oMJ23XGB
 #### Interactive Dashboards
 - **Worldwide COVID-19 Dashboard**
 - **ML-Model Toronto Dashboard**
-- Please visit our [visual dashboard](https://public.tableau.com/profile/tenley5222#!/vizhome/COVID-19_15942366549880/WorlwideCOVID-19?publish=yes), which presents a visual dashboard representation of Worlwide COVID-19 & ML-Model Toronto Dashboards
+- Please visit our [visual dashboard](https://public.tableau.com/profile/tenley5222#!/vizhome/COVID-19_15942366549880/WorlwideCOVID-19?publish=yes), which presents a visual dashboard representation of Worlwide COVID-19 & ML-Model Toronto Dashboards on the [Menu Bar]
 
 ## Summary 
 TO BE UPDATED
