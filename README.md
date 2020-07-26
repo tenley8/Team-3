@@ -72,11 +72,10 @@ Please visit our [storyboard](https://docs.google.com/presentation/d/1x-oMJ23XGB
 - **Tool(s) that will be used to create the final dashboard:** Tableau Public & edited in Visual Studio
 - **Interactive element(s):** The interactive elements would be Tableau Public sheets, drop down menus, mouseover functions
 
-#### Worldwide COVID-19 Interactive Dashboard
-Please visit our [visual dashboard](https://public.tableau.com/profile/tenley5222#!/vizhome/COVID-19_15942366549880/COVID-19?publish=yes), which presents a visual dashboard representation of worldwide COVID-19 data.
-
-#### ML-Model Toronto Dashboard
-Please visit our [visual dashboard](https://public.tableau.com/profile/tenley5222#!/vizhome/COVID-19_15942366549880/MLModel?publish=yes), which presents a visual dashboard representation of ML-Model Toronto.
+#### Interactive Dashboards
+- **Worldwide COVID-19 Dashboard**
+- **ML-Model Toronto Dashboard**
+- Please visit our [visual dashboard](https://public.tableau.com/profile/tenley5222#!/vizhome/COVID-19_15942366549880/WorlwideCOVID-19?publish=yes), which presents a visual dashboard representation of Worlwide COVID-19 & ML-Model Toronto Dashboards on the [Menu Bar]
 
 ## Summary 
 TO BE UPDATED
