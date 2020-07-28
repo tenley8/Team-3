@@ -34,20 +34,6 @@ Some of the questions we are hoping to answer are;
 - Health: Do people with pre-existing conditions have a greater risk of dying from COVID-19
 - Lifestyle: What aspects of individual lifestyle such as weight, behaviour and proper nutrution impacts probability of catching Covid-19 or dying from Covid-19?
 
-## Team
-<Team (Team Members & Comm. Protocol) to be deleted at Segment 3>
-#### Members
-* Joyce Ou
-* Mohamed Ibrahim
-* Momar Drame
-* Tenley Wiltshire
-* Taishi Matsuda
-
-#### Communication Protocol
-* Team-3 Slack - With any updates or questions
-* Required Meeting - Every Tuesday Night, Thursday Night and Sunday Morning
-* Optional Meeting - Friday Night, Saturday. To be scheduled based on the requirement.
-
 ## Resources
 - **Software:** VS Code, Tableau Public, JupyterLab, pgAdmin 4, Amazon Web Services & Google Slides
 - **Languages:** HTML, CSS, Python, JS, & PostgreSQL
