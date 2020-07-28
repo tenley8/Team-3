@@ -6,7 +6,6 @@
 
 * [Background](#Background)
 * [Project Overview](#project-overview)
-* [Team](#Team)
 * [Resources](#resources)
 * [Data Source and Database](#Data-Source-and-Database)
 * [Machine Learning Model](#Machine-Learning-Models)
