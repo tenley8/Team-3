@@ -46,12 +46,6 @@ Details of our machine learning (ML) models are explained under [Toronto Data An
 ## Presentation
 Please visit our [google slide presenation](https://docs.google.com/presentation/d/1YYGahoh_9MaWsczrZiGQP4bnX_7asvut2Ps5z8Q_0l4/edit?usp=sharing)
 
-## Dashboard
-#### Storyboard
-Please visit our [storyboard](https://docs.google.com/presentation/d/1x-oMJ23XGBqUsFxZntLLpk3-wjCV48IW_VTWXR0NUps/edit?usp=sharing), which presents a visual representation of worldwide COVID-19 data.
-- **Tool(s) that will be used to create the final dashboard:** Tableau Public & edited in Visual Studio
-- **Interactive element(s):** The interactive elements would be Tableau Public sheets, drop down menus, mouseover functions
-
 #### Interactive Dashboards
 - **Worldwide COVID-19 Dashboard**
 - **ML-Model Toronto Dashboard**
