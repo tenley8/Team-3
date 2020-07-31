@@ -10,7 +10,7 @@
 * [Data Source and Database](#Data-Source-and-Database)
 * [Machine Learning Model](#Machine-Learning-Models)
 * [Presentation](#presentation)
-* [Dashboard](#Dashboard)
+* [Interactive Dashboard](#Interactive Dashboards)
 * [Findings and Recommendation](#Findings-and-Recommendation)
 
 ## Background
@@ -35,7 +35,7 @@ Some of the questions we are hoping to answer are;
 
 ## Resources
 - **Software:** VS Code, Tableau Public, JupyterLab, pgAdmin 4, Amazon Web Services & Google Slides
-- **Languages:** HTML, CSS, Python, JS, & PostgreSQL
+- **Languages:** HTML, CSS, Python, & PostgreSQL
 
 ## Data Source and Database
 Details of data sources used, clean-up / data exploration process and the database relationship diagrams are describled under [Resources Folder](Resources).
