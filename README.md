@@ -10,7 +10,7 @@
 * [Data Source and Database](#Data-Source-and-Database)
 * [Machine Learning Model](#Machine-Learning-Models)
 * [Presentation](#presentation)
-* [Interactive Dashboards](#Interactive Dashboards)
+* [Interactive Dashboards](#Interactive-Dashboards)
 * [Findings and Recommendation](#Findings-and-Recommendation)
 
 ## Background
