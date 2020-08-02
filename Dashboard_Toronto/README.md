@@ -1,0 +1,1 @@
+![dashboard_gif](../images/dashboard_captured.gif)
