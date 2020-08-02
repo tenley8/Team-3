@@ -6,12 +6,11 @@
 
 * [Background](#Background)
 * [Project Overview](#project-overview)
-* [Team](#Team)
 * [Resources](#resources)
 * [Data Source and Database](#Data-Source-and-Database)
 * [Machine Learning Model](#Machine-Learning-Models)
 * [Presentation](#presentation)
-* [Dashboard](#Dashboard)
+* [Interactive Dashboards](#Interactive-Dashboards)
 * [Findings and Recommendation](#Findings-and-Recommendation)
 
 ## Background
@@ -34,23 +33,9 @@ Some of the questions we are hoping to answer are;
 - Health: Do people with pre-existing conditions have a greater risk of dying from COVID-19
 - Lifestyle: What aspects of individual lifestyle such as weight, behaviour and proper nutrution impacts probability of catching Covid-19 or dying from Covid-19?
 
-## Team
-<Team (Team Members & Comm. Protocol) to be deleted at Segment 3>
-#### Members
-* Joyce Ou
-* Mohamed Ibrahim
-* Momar Drame
-* Tenley Wiltshire
-* Taishi Matsuda
-
-#### Communication Protocol
-* Team-3 Slack - With any updates or questions
-* Required Meeting - Every Tuesday Night, Thursday Night and Sunday Morning
-* Optional Meeting - Friday Night, Saturday. To be scheduled based on the requirement.
-
 ## Resources
 - **Software:** VS Code, Tableau Public, JupyterLab, pgAdmin 4, Amazon Web Services & Google Slides
-- **Languages:** HTML, CSS, Python, JS, & PostgreSQL
+- **Languages:** HTML, CSS, Python, & PostgreSQL
 
 ## Data Source and Database
 Details of data sources used, clean-up / data exploration process and the database relationship diagrams are describled under [Resources Folder](Resources).
@@ -61,13 +46,7 @@ Details of our machine learning (ML) models are explained under [Toronto Data An
 ## Presentation
 Please visit our [google slide presenation](https://docs.google.com/presentation/d/1YYGahoh_9MaWsczrZiGQP4bnX_7asvut2Ps5z8Q_0l4/edit?usp=sharing)
 
-## Dashboard
-#### Storyboard
-Please visit our [storyboard](https://docs.google.com/presentation/d/1x-oMJ23XGBqUsFxZntLLpk3-wjCV48IW_VTWXR0NUps/edit?usp=sharing), which presents a visual representation of worldwide COVID-19 data.
-- **Tool(s) that will be used to create the final dashboard:** Tableau Public & edited in Visual Studio
-- **Interactive element(s):** The interactive elements would be Tableau Public sheets, drop down menus, mouseover functions
-
-#### Interactive Dashboards
+## Interactive Dashboards
 - **Worldwide COVID-19 Dashboard**
 - **ML-Model Toronto Dashboard**
 - Please visit our [visual dashboard](https://public.tableau.com/profile/tenley5222#!/vizhome/COVID-19_15942366549880/WorlwideCOVID-19?publish=yes), which presents a visual dashboard representation of Worlwide COVID-19 & ML-Model Toronto Dashboards on the [Menu Bar]
