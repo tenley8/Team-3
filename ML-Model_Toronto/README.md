@@ -49,7 +49,7 @@ We believe the RF Model would be a better model choice for this analysis as;
 * Both models had similar accuracy of around 90%
 * Random Forest Classifier has better explainability and can show which dependent variable had more impact to the outcome.
 
-#### Findings and Limitations
+## Findings and Limitations
 * Gender, Male or Female, do not affect the fatality risk of COVID-19.
 * Age, especially being older than 70, has significantly increases the chance of fatality. It is interesting to see that importance of age is low for model that predict if individual will be hospitalized is low. However, this could be the result of encoding, which creates multiple columns.
 * Demographic and Income of the individual also have significant impact to the outcome of COVID-19. However, at the time of the analysis, only aggregated data is available for demograpic information. Hence, it is very difficult to determine which type of demographic information had higher importance than other.
