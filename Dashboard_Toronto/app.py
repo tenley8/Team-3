@@ -2,6 +2,7 @@
 
 # Run this app with `python app.py` and visit http://127.0.0.1:8050/ in your web browser.
 import dash
+import dash_table
 import dash_core_components as dcc
 import dash_html_components as html
 import dash_bootstrap_components as dbc
@@ -11,9 +12,12 @@ import numpy as np
 import plotly.express as px
 from datetime import datetime as dt
 
-# Load Data
+# Load Toronto Data-set
 toronto_df = pd.read_csv('toronto_data.csv')
 toronto_df['episode_date'] = pd.to_datetime(toronto_df['episode_date'])
+
+# Load Result of RF Model
+feature_importance_df = pd.read_csv('toronto_feature_importance.csv')
 
 # Calculating Fatality Rate by Area
 fatal_by_area = pd.DataFrame(toronto_df[toronto_df['outcome'] == 'FATAL'].groupby(['neighbourhood_name']).count()['outcome'])
@@ -140,11 +144,23 @@ NEIGHBOURHOOD = dbc.Card([
     )
 ])
 
+MODEL_TABLE = dbc.Card([
+    dbc.CardHeader(html.H5("Random Forest Classifier")),
+    dbc.CardBody(
+        dash_table.DataTable(
+            id='feature_importance_table',
+            columns=[{"name": i, "id": i} for i in feature_importance_df.columns],
+            data=feature_importance_df.to_dict('records'),
+        )
+    )
+])
+
 BODY = dbc.Container(
     [
         dbc.Col(dbc.Card(TORONTO_CASE), style={"marginTop": 20}),
         dbc.Col(dbc.Card(TORONTO_OUTCOME), style={"marginTop": 20}),
-        dbc.Col(dbc.Card(NEIGHBOURHOOD), style={"marginTop": 20,"marginBottom": 40})
+        dbc.Col(dbc.Card(NEIGHBOURHOOD), style={"marginTop": 20}),
+        dbc.Col(dbc.Card(MODEL_TABLE), style={"marginTop": 20,"marginBottom": 40})
     ]
 )
 
