@@ -45,6 +45,8 @@ Following steps are taking during pre-processing of data.
 
 #### ML Models
 We tested the Neural Network Binary Classification Models and Random Forest Classifier (RF Model).
+For the Neural Network Model, we tested by changing number of hidden layer(s) and changing number of epochs. Single hidden layer had poor accuracty, however, by increasing it to 2 hidden layers, accuracty increased to 90%. Increasing number of epochs did not significantly improve the accuracy likely due to relatively small number of features and cases.
+
 We believe the RF Model would be a better model choice for this analysis as;
 * Both models had similar accuracy of around 90%
 * Random Forest Classifier has better explainability and can show which dependent variable had more impact to the outcome.
