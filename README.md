@@ -47,9 +47,11 @@ Details of our machine learning (ML) models are explained under [Toronto Data An
 Please visit our [google slide presenation](https://docs.google.com/presentation/d/1YYGahoh_9MaWsczrZiGQP4bnX_7asvut2Ps5z8Q_0l4/edit?usp=sharing)
 
 ## Interactive Dashboards
-- **Worldwide COVID-19 Dashboard**
-- **ML-Model Toronto Dashboard**
-- Please visit our [visual dashboard](https://public.tableau.com/profile/tenley5222#!/vizhome/COVID-19_15942366549880/WorlwideCOVID-19?publish=yes), which presents a visual dashboard representation of Worlwide COVID-19 & ML-Model Toronto Dashboards on the [Menu Bar]
+**Worldwide COVID-19 Dashboard**
+- Please visit our [visual dashboard](https://public.tableau.com/profile/tenley5222#!/vizhome/COVID-19_15942366549880/WorlwideCOVID-19?publish=yes), which presents a visual dashboard representation of Worlwide COVID-19 Dashboard.
+
+**ML-Model Toronto Dashboard**
+- Dashboard for Toronto Data is stored under [Dashboard Toronto](Dashboard_Toronto).
 
 ## Findings and Recommendation
 Analysis performed for COVID-19 cases in Toronto indicates that the outcome of the COVID-19 could significantly depend on not only the age but demographic and ecnonomic factors.
