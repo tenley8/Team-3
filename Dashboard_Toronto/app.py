@@ -12,6 +12,8 @@ import numpy as np
 import plotly.express as px
 from datetime import datetime as dt
 
+PLOTLY_LOGO = "https://images.plot.ly/logo/new-branding/plotly-logomark.png"
+
 # Load Toronto Data-set
 toronto_df = pd.read_csv('toronto_data.csv')
 toronto_df['episode_date'] = pd.to_datetime(toronto_df['episode_date'])
@@ -65,23 +67,45 @@ server = app.server
 NAVBAR = dbc.Navbar(
     children=[
         html.A(
-            # Use row and col to control vertical alignment of logo / brand
             dbc.Row(
                 [
-                    dbc.Col(
-                        dbc.NavbarBrand("Team-3 COVID-19 Dashboard", className="ml-2")
-                    ),
+                    dbc.Col(dbc.NavbarBrand("Home", className="ml-6")),
+                ],
+                align="center",
+                no_gutters=True,
+            ),
+            href="#",
+        ),
+        html.A(
+            dbc.Row(
+                [
+                    dbc.Col(dbc.NavbarBrand("GitHub Page", className="ml-6")),
                 ],
                 align="center",
                 no_gutters=True,
             ),
             href="https://github.com/tenley8/Team-3",
-        )
+        ),
     ],
     color="dark",
     dark=True,
     sticky="top",
 )
+
+# Header
+OVERVIEW = dbc.Jumbotron([
+    html.Header(
+        className="display-5",
+        children=[
+            html.H1(children="Team-3 COVID-19 Dashboard", className="display-5"),
+            html.Hr(className="my-2"),
+            html.P(
+                "Interactive dashboard created based on the COVID-19 cases provided by City of Toronto. For details of the project, please visit our GitHub page.",
+                style={"font-weight": "lighter"}
+            )
+        ]
+    ),
+])
 
 # Card to hold graphs for number of cases
 TORONTO_CASE = dbc.Card(
@@ -137,6 +161,7 @@ TORONTO_OUTCOME = dbc.Card(
     ]        
 )
 
+# Card to hold graph for fatality rate by area
 NEIGHBOURHOOD = dbc.Card([
     dbc.CardHeader(html.H5("Fatality Rate by Area")),
     dbc.CardBody(
@@ -144,17 +169,28 @@ NEIGHBOURHOOD = dbc.Card([
     )
 ])
 
+# Card to hold table containing RF Model results
 MODEL_TABLE = dbc.Card([
     dbc.CardHeader(html.H5("Random Forest Classifier")),
-    dbc.CardBody(
+    dbc.CardBody([
+        html.Div([
+            html.P('We created Binary Classification Models using Random Forest Classifier provided by Scikit-learn.'),
+            html.P('Models predict the chance of being hospitalized or fatality of COVID-19 cases to explain the impact of demographics to the outcome of COVID-19. Table below shows the feature importance determined by the model.')
+        ]),
         dash_table.DataTable(
             id='feature_importance_table',
             columns=[{"name": i, "id": i} for i in feature_importance_df.columns],
             data=feature_importance_df.to_dict('records'),
+            style_as_list_view=True, style_cell={'padding': '5px'},
+            style_header={
+                'backgroundColor': 'white',
+                'fontWeight': 'bold'
+            }
         )
-    )
+    ])
 ])
 
+# Placing All Contents
 BODY = dbc.Container(
     [
         dbc.Col(dbc.Card(TORONTO_CASE), style={"marginTop": 20}),
@@ -163,10 +199,9 @@ BODY = dbc.Container(
         dbc.Col(dbc.Card(MODEL_TABLE), style={"marginTop": 20,"marginBottom": 40})
     ]
 )
+app.layout = html.Div(children=[NAVBAR, OVERVIEW, BODY])
 
-app.layout = html.Div(children=[NAVBAR, BODY])
-
-
+# Callbacks required for interactive contents
 @app.callback(
     Output('toronto_case_by_age', 'figure'),
     [Input('date-slider', 'value')])
@@ -206,14 +241,12 @@ def update_gender_figure(selected_date):
 def render_content(tab):
     if tab == 'tab-1':
         return html.Div([
-            html.P('Tab content 1')
+            html.P('First case in Toronto was reported on January 21st, 2020. About 1000 to 2000 cases were reported among all age group by July 9th (170 days since the first case).')
         ])
     elif tab == 'tab-2':
         return html.Div([
-            html.P('Tab content 2')
+            html.P('First case in Toronto was reported on January 21st, 2020. Slightly higher number of cases reported among female. However the difference is not significant')
         ])
-
-
 
 # Running Application
 if __name__ == '__main__':
