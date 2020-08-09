@@ -48,8 +48,14 @@ We tested the Neural Network Binary Classification Models and Random Forest Clas
 For the Neural Network Model, we tested by changing number of hidden layer(s) and changing number of epochs. Single hidden layer had poor accuracty, however, by increasing it to 2 hidden layers, accuracty increased to 90%. Increasing number of epochs did not significantly improve the accuracy likely due to relatively small number of features and cases.
 
 We believe the RF Model would be a better model choice for this analysis as;
-* Both models had similar accuracy of around 90%
+* Both models had similar accuracy 
 * Random Forest Classifier has better explainability and can show which dependent variable had more impact to the outcome.
+
+The tables below are Confusion matrix for RF Models. The accuracy of the models were 90% for fatality and 86% for hospitalization.
+However the models have to be improved due to their high False Negative predictions.
+
+![Confusion Matrix](../images/Confusion_Matrix.png)
+
 
 ## Findings and Limitations
 * Gender, Male or Female, do not affect the fatality risk of COVID-19.
